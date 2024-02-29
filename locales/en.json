@@ -1,0 +1,9 @@
+{
+    "hello": "Merhaba",
+    "goodbye": "Güle güle",
+    "pageTitles": {
+        "about": "Hakkımda",
+        "resume": "öz geçmiş",
+        "github": "Github"
+    }
+}
